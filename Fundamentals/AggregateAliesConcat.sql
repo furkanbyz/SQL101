@@ -11,8 +11,6 @@
 -- concat fonk ile ad ve soyad birleştirildi as ile de geçici isim verildi.
 
 
-
-
 -- @@@AGGREGATE FUNC.@@@
 -- select max(replacement_cost) from film
 -- select min(replacement_cost) from film

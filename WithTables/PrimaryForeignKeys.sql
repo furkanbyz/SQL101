@@ -1,0 +1,12 @@
+-- @@@PRIMARY KEY - FOREIGN KEY@@@
+-- create table book(
+-- 	id serial primary key,
+-- 	title varchar(100) not null,
+-- 	page_number integer not null,
+-- 	author_id integer references author(id)
+-- )
+-- ile author_id adlı bir foreign key sütunu olan, book tablosu oluşturuldu
+
+-- select * from book
+-- join author on author.id = book.author_id
+-- ile book ve author tabloları arasında join işlemi yapıldı
